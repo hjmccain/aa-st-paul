@@ -1,10 +1,8 @@
 import ReactOnRails from 'react-on-rails';
 
-import HelloWorld from '../components/HelloWorld';
-import Test from '../components/test';
+import Test from './components/test';
 
 // This is how react_on_rails can see the HelloWorld in the browser.
 ReactOnRails.register({
-  HelloWorld,
   Test
 });
