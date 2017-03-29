@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2017-03-29
+  time: 2017-03-29 16:40:02
+  attendance: MyString
+  gender: MyString
+  ages: MyString
+  address: MyString
+  city: MyString
+  format: MyString
+  special: MyString
+
+two:
+  date: 2017-03-29
+  time: 2017-03-29 16:40:02
+  attendance: MyString
+  gender: MyString
+  ages: MyString
+  address: MyString
+  city: MyString
+  format: MyString
+  special: MyString
